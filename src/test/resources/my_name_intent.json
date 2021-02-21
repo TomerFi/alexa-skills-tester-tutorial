@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": false
+  },
+  "context": {
+    "System": {}
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "amzn1.echo-api.request.fake-request-id",
+    "timestamp": "2021-02-11T15:31:00Z",
+    "locale": "en-US",
+    "intent": {
+      "name": "MyNameIntent",
+      "slots": {
+        "nameSlot": {
+          "name": "nameSlot",
+          "value": "master"
+        }
+      }
+    }
+  }
+}

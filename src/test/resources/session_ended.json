@@ -1,0 +1,15 @@
+{
+	"version": "1.0",
+	"session": {
+		"new": false
+	},
+	"context": {
+		"System": {}
+	},
+	"request": {
+		"type": "SessionEndedRequest",
+		"requestId": "amzn1.echo-api.request.fake-request-id",
+		"timestamp": "2021-02-11T15:32:00Z",
+		"locale": "en-US"
+	}
+}
