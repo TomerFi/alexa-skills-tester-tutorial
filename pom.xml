@@ -6,7 +6,7 @@
 
   <groupId>info.tomfi.tutorials</groupId>
   <artifactId>alexa-skills-tester-tutorial</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version>
   <name>alexa-skills-tester-tutorial</name>
   <url>https://github.com/TomerFi/alexa-skills-tester-tutorial</url>
   <description>Testing your Java Alexa skills with real requests</description>
@@ -21,16 +21,9 @@
   <developers>
     <developer>
       <id>TomerFi</id>
-      <name>Tomer Figenblat</name>
-      <email>tomer.figenblat@gmail.com</email>
       <url>https://github.com/TomerFi</url>
     </developer>
   </developers>
-
-  <scm>
-    <url>https://github.com/TomerFi/alexa-skills-tester-tutorial</url>
-    <connection>scm:git:https://github.com/TomerFi/alexa-skills-tester-tutorial.git</connection>
-  </scm>
 
   <dependencies>
     <dependency>
