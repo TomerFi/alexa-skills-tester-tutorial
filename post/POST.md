@@ -236,7 +236,7 @@ Please feel free to open a [feature request issue][6], describing the feature yo
 
 You can check out the code for this part of the tutorial in [Github][3].
 
-**:wave: See you in the next part of this tutorial :wave:**
+**:wave: See you in the next tutorial :wave:**
 
 [0]: https://developer.amazon.com/en-US/docs/alexa/alexa-skills-kit-sdk-for-java/overview.html
 [1]: https://github.com/TomerFi/alexa-skills-tester
