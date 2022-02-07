@@ -1,8 +1,9 @@
 ---
 title: Alexa Skills Testing
-published: true
+published: false
 description: Test your Java Alexa skills with real requests.
 tags: ["java", "alexa", "test", "bdd"]
+cover_image: https://source.unsplash.com/k1osF_h2fzA
 ---
 
 ## Test your Java Alexa skills with real requests
